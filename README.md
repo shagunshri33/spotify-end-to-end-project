@@ -1,4 +1,3 @@
-# Spotify-end-to-end-project
 # Spotify ETL End-To-End Pipeline Project
 
 ### Overview
